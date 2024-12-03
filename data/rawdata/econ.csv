@@ -1,0 +1,669 @@
+ID,idade,gênero,gênero_3_TEXT,decl_racial,decl_racial_5_TEXT,escolaridade,escolaridade_transf,área_estudo,curso,cidade_bairro_1,renda,renda_e_pessoas,contrato_AB,contrato_CD,contrato_EF,verif_contrato_2,poltrona_venda_reais,poltrona_compra_reai,poltrona_venda_porce,Q30,verif_poltrona,A casa_1,A casa_2,A casa_3,verif_casa,economicam,felicidade,atratividade_trab,verif_maria,setal1997-funnel
+NA,"Parte A - Pesquisa Sociodemográfica
+
+ 
+
+ 
+Qual a sua idade?","Por favor, indique seu gênero. - Selected Choice","Por favor, indique seu gênero. - Outro – Texto",Qual raça você considera ser? - Selected Choice,Qual raça você considera ser? - Outro (Especificar) – Texto,Qual o seu nível de escolaridade?,NA,"Se estiver cursando/cursou universidade, qual a área?",Qual curso?,Em que cidade você mora? - Cidade,Qual a sua renda média mensal familiar?,Quantas pessoas vivem dessa renda familiar,"O Contrato
+
+ 
+
+Imagine que estamos em 2011 e que você dirige uma firma na Zona Franca de Manaus, que produz computadores. Você está prestes a assinar um contrato com uma empresa local para a venda de novos computadores que serão entregues em Janeiro de 2013. 
+
+ 
+
+Esses computadores possuem, em 2011, o valor de R$1.000 cada, mas devido à inflação, os preços tendem a crescer nos próximos anos, incluindo custos de produção e os preços dos computadores. A melhor estimativa, segundo especialistas, é de que os preços em Manaus estejam 20% mais altos em dois anos, com uma mesma probabilidade de que este aumento seja maior ou menor que 20%. Os especialistas concordam que um aumento de 10% nos preços é tão provável quanto um aumento de 30%. 
+
+ 
+
+Você deve assinar o contrato agora (em 2011). O pagamento integral só será feito a partir da entrega em Janeiro de 2013. 
+
+ 
+
+Dois contratos estão disponíveis para você. Indique sua preferência dentre os contratos abaixo, avaliando qual deles é mais adequado.","O Contrato
+
+ 
+
+Imagine que estamos em 2011 e que você é o diretor de uma divisão corporativa na Zona Franca de Manaus, que produz computadores. Você está prestes a assinar um contrato com uma empresa local para a venda de novos computadores que serão entregues em Janeiro de 2013. 
+
+ 
+
+Esses computadores possuem, atualmente, o valor de R$1.000 a peça, mas devido à inflação, os preços, incluindo custos de produção e preços de computadores, tendem a crescer nos próximos anos. A melhor estimativa, segundo especialistas, é de que os preços em Manaus estejam 20% mais altos em dois anos, com uma mesma probabilidade que este aumento seja maior ou menor que 20%. Os especialistas concordam que um aumento de 10% nos preços é tão provável quanto um aumento de 30%. 
+
+ 
+
+Você deve assinar o contrato agora. O pagamento integral só será feito a partir da entrega em Janeiro de 2013. 
+
+ 
+
+Dois contratos estão disponíveis para você. Indique sua preferência dentre os contratos abaixo, avaliando qual deles é mais adequado.","O Contrato
+
+ 
+
+Imagine que estamos em 2011 e que você é o diretor de uma divisão corporativa na Zona Franca de Manaus, que produz computadores. Você está prestes a assinar um contrato com uma empresa local para a venda de novos computadores que serão entregues em Janeiro de 2013. 
+
+ 
+
+Esses computadores possuem, atualmente, o valor de R$1.000 a peça, mas devido à inflação, os preços, incluindo custos de produção e preços de computadores, tendem a crescer nos próximos anos. A melhor estimativa, segundo especialistas, é de que os preços em Manaus estejam 20% mais altos em dois anos, com uma mesma probabilidade que este aumento seja maior ou menor que 20%. Os especialistas concordam que um aumento de 10% nos preços é tão provável quanto um aumento de 30%. 
+
+ 
+
+Você deve assinar o contrato agora. O pagamento integral só será feito a partir da entrega em Janeiro de 2013. 
+
+ 
+
+Dois contratos estão disponíveis para você. Indique sua preferência dentre os contratos abaixo, avaliando qual deles é mais adequado.","Em relação aos aumentos da inflação em Manaus, qual das opções apresenta maior probabilidade d","(Nota: leia com cuidado)
+
+ 
+
+A poltrona de couro (venda)
+ 
+
+Mudanças na economia frequentemente afetam as decisões financeiras das pessoas. Imagine que o Brasil experienciou uma alta anormal na inflação que afetou todos os setores da economia. Imagine que dentro de um período de 6 meses, todos os benefícios e salários, assim como os preços de todos os bens e serviços, aumentaram em 25%. Agora, você ganha e gasta 25% mais do que antes.
+
+ 
+
+6 meses atrás, você estava planejando vender uma poltrona de couro que, durante esse período de 6 meses, aumentou o preço de R$400 para R$500. 
+
+ 
+
+Você estaria mais ou menos suscetível a vender essa poltrona agora?","(Nota: leia com cuidado)
+
+ 
+
+A poltrona de couro (compra)
+
+ 
+
+Mudanças na economia frequentemente afetam as decisões financeiras das pessoas. Imagine que o Brasil experienciou uma alta anormal na inflação que afetou todos os setores da economia. Imagine que dentro de um período de 6 meses, todos os benefícios e salários, assim como os preços de todos os bens e serviços, aumentaram em 25%. Agora, você ganha e gasta 25% mais do que antes.
+
+ 
+
+6 meses atrás, você estava planejando comprar uma poltrona de couro que, durante esse período de 6 meses, aumentou o preço de R$400 para R$500.
+
+ 
+
+Você estaria mais ou menos suscetível a comprar essa poltrona agora?","(Nota: leia com cuidado) 
+
+ 
+
+A poltrona de couro (venda)
+
+ 
+Mudanças na economia frequentemente afetam as decisões financeiras das pessoas. Imagine que o Brasil experienciou uma alta anormal na inflação que afetou todos os setores da economia. Imagine que dentro de um período de 6 meses, todos os benefícios e salários, assim como os preços de todos os bens e serviços, aumentaram em 25%. Agora, você ganha e gasta 25% mais do que antes.
+
+
+ 
+
+
+6 meses atrás, você estava planejando vender uma poltrona de couro que, durante esse período de 6 meses, aumentou o preço em 25%. 
+
+ 
+
+Você estaria mais ou menos suscetível a vender essa poltrona agora?","(Nota:  leia com cuidado) 
+
+ 
+
+A poltrona de couro (compra)
+
+ 
+
+Mudanças na economia frequentemente afetam as decisões financeiras das pessoas. Imagine que o Brasil experienciou uma alta anormal na inflação que afetou todos os setores da economia. Imagine que dentro de um período de 6 meses, todos os benefícios e salários, assim como os preços de todos os bens e serviços, aumentaram em 25%. Agora, você ganha e gasta 25% mais do que antes.
+
+ 
+
+6 meses atrás, você estava planejando comprar uma poltrona de couro que, durante esse período de 6 meses, aumentou o preço em 25%.
+
+ 
+
+Você estaria mais ou menos suscetível a comprar essa poltrona agora?",O que aconteceu com o preço da poltrona?,"A Casa
+ 
+
+
+Suponha que André, Bento e Marcelo receberam, cada um, uma herança de R$200.000 e a usaram para comprar uma casa. Suponha que cada um deles vendeu a casa um ano após comprá-la. As condições econômicas, no entanto, eram diferentes em cada caso:
+
+ 
+
+*Quando André possuía a casa, existia uma deflação de 25% - os preços de todos os bens e serviços caíram por volta de 25%. Um ano após André comprar a casa, ele vendeu por R$154.000 (23% menos do que ele pagou).
+
+ 
+
+*Quando Bento possuía a casa, não existia nem inflação nem deflação - os preços não mudaram significativamente durante aquele ano. Ele vendeu a casa por R$198.000 (1% menos que o quanto ele havia pago)
+
+ 
+
+*Quando Marcelo possuía a casa existia uma inflação de 25% - todos os preços subiram aproximadamente 25%. Um ano após ele comprar a casa, Marcelo a vendeu por R$246.000 (23% a mais do que ele pagou).
+ 
+
+ 
+
+
+Ranqueie André, Bento e Marcelo em termos de qual obteve maior sucesso na sua transação de compra e venda na casa, assinalando 1 para a pessoa que fez o melhor negócio e 3 para a pessoa que fez o pior. - André","A Casa
+ 
+
+
+Suponha que André, Bento e Marcelo receberam, cada um, uma herança de R$200.000 e a usaram para comprar uma casa. Suponha que cada um deles vendeu a casa um ano após comprá-la. As condições econômicas, no entanto, eram diferentes em cada caso:
+
+ 
+
+*Quando André possuía a casa, existia uma deflação de 25% - os preços de todos os bens e serviços caíram por volta de 25%. Um ano após André comprar a casa, ele vendeu por R$154.000 (23% menos do que ele pagou).
+
+ 
+
+*Quando Bento possuía a casa, não existia nem inflação nem deflação - os preços não mudaram significativamente durante aquele ano. Ele vendeu a casa por R$198.000 (1% menos que o quanto ele havia pago)
+
+ 
+
+*Quando Marcelo possuía a casa existia uma inflação de 25% - todos os preços subiram aproximadamente 25%. Um ano após ele comprar a casa, Marcelo a vendeu por R$246.000 (23% a mais do que ele pagou).
+ 
+
+ 
+
+
+Ranqueie André, Bento e Marcelo em termos de qual obteve maior sucesso na sua transação de compra e venda na casa, assinalando 1 para a pessoa que fez o melhor negócio e 3 para a pessoa que fez o pior. - Bento","A Casa
+ 
+
+
+Suponha que André, Bento e Marcelo receberam, cada um, uma herança de R$200.000 e a usaram para comprar uma casa. Suponha que cada um deles vendeu a casa um ano após comprá-la. As condições econômicas, no entanto, eram diferentes em cada caso:
+
+ 
+
+*Quando André possuía a casa, existia uma deflação de 25% - os preços de todos os bens e serviços caíram por volta de 25%. Um ano após André comprar a casa, ele vendeu por R$154.000 (23% menos do que ele pagou).
+
+ 
+
+*Quando Bento possuía a casa, não existia nem inflação nem deflação - os preços não mudaram significativamente durante aquele ano. Ele vendeu a casa por R$198.000 (1% menos que o quanto ele havia pago)
+
+ 
+
+*Quando Marcelo possuía a casa existia uma inflação de 25% - todos os preços subiram aproximadamente 25%. Um ano após ele comprar a casa, Marcelo a vendeu por R$246.000 (23% a mais do que ele pagou).
+ 
+
+ 
+
+
+Ranqueie André, Bento e Marcelo em termos de qual obteve maior sucesso na sua transação de compra e venda na casa, assinalando 1 para a pessoa que fez o melhor negócio e 3 para a pessoa que fez o pior. - Marcelo",Eles venderam a casa após quanto tempo?,"Ganhos/ salários
+
+ 
+
+
+
+Considere dois indivíduos, Maria e Carolina, que se formaram na mesma faculdade com um ano de diferença. Depois da graduação, ambas tinham trabalhos semelhantes em firmas de editoração. Maria começou com um salário mensal de R$3.000. Durante seu primeiro ano de trabalho, não houve inflação, e em seu segundo ano, Maria recebeu um aumento de 2% (R$60) em seu salário. Carolina também começou com um salário mensal de R$3.000. Durante seu primeiro ano de trabalho, houve uma inflação de 4%, e em seu segundo ano, Carolina recebeu um aumento de 5% (R$150) em seu salário.
+
+
+
+ 
+
+Ao ingressar em seu segundo ano no emprego, quem estava melhor em termos econômicos?","Ganhos/ salários
+
+ 
+
+
+Considere dois indivíduos, Maria e Carolina, que se formaram na mesma faculdade com um ano de diferença. Depois da graduação, ambas tinham trabalhos semelhantes em firmas de editoração. Maria começou com um salário mensal de R$3.000. Durante seu primeiro ano de trabalho, não houve inflação, e em seu segundo ano, Maria recebeu um aumento de 2% (R$60) em seu salário. Carolina também começou com um salário mensal de R$3.000. Durante seu primeiro ano de trabalho, houve uma inflação de 4%, e em seu segundo ano, Carolina recebeu um aumento de 5% (R$150) em seu salário.
+
+
+
+ 
+
+Ao ingressar em seu segundo ano no emprego, quem você acha que está mais feliz?","Ganhos/ salários
+ 
+
+Considere dois indivíduos, Maria e Carolina, que se formaram na mesma faculdade com um ano de diferença. Depois da graduação, ambas tinham trabalhos semelhantes em firmas de editoração. Maria começou com um salário mensal de R$3.000. Durante seu primeiro ano de trabalho, não houve inflação, e em seu segundo ano, Maria recebeu um aumento de 2% (R$60) em seu salário. Carolina também começou com um salário mensal de R$3.000. Durante seu primeiro ano de trabalho, houve uma inflação de 4%, e em seu segundo ano, Carolina recebeu um aumento de 5% (R$150) em seu salário.
+
+ 
+
+Ao ingressar em seu segundo ano no emprego, cada uma recebeu uma proposta de uma outra firma/empresa. Quem, na sua opinião, é mais provável de deixar a posição atual por outro emprego?",Qual foi o aumento (em reais) recebido por Maria e Carolina respectivamente?,"Você completou este estudo... 
+
+Encerraremos com uma última questão.
+
+ 
+
+ 
+
+De 1 a 10, quanto você acha que compreendeu as perguntas feitas no estudo, considerando os conceitos matemáticos envolvidos?"
+1,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,30%,NA,NA,Mais suscetível,Igual,Aumentou,3,2,1,1 ano,Carolina,NA,NA,60 e 150,9
+2,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,E,20%,NA,NA,Mais suscetível,Igual,Aumentou,3,2,1,1 ano,Carolina,NA,NA,60 e 150,8
+3,54,Homem,NA,Branco,NA,Pós graduação (completa),2,Exatas,Engenharia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,NA,F,30%,Igual,Menos suscetível,NA,NA,Aumentou,3,1,2,1 ano,NA,Maria,NA,60 e 150,9
+4,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,B,NA,NA,20%,NA,NA,Menos suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,Maria,NA,60 e 150,9
+5,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,Bertioga/ SP,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",4,NA,C,NA,30%,Menos suscetível,Mais suscetível,NA,NA,Aumentou,3,2,1,Não sei,NA,NA,Maria,60 e 150,6
+6,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,B,NA,NA,20%,NA,NA,Igual,Igual,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,7
+7,25,Homem,NA,Asiático,NA,Superior (completo),2,Humanas,Economia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",2,NA,D,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,NA,Carolina,NA,60 e 150,5
+8,22,Homem,NA,Branco,NA,Superior (incompleto),2,Biológicas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,NA,F,Não sei,Igual,Mais suscetível,NA,NA,Permaneceu o mesmo,1,3,2,1 ano,Maria,NA,NA,60 e 150,6
+9,23,Homem,NA,Branco,NA,Superior (completo),2,Exatas,Análise e desenvolvimento de sistemas / marketing,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,E,20%,NA,NA,Igual,Igual,Aumentou,1,2,3,1 ano,NA,NA,Maria,60 e 150,9
+10,31,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Medicina,São José do Rio Preto,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",2,NA,NA,E,20%,NA,NA,Igual,Igual,Aumentou,1,2,3,2 anos,Maria,NA,NA,60 e 150,7
+11,24,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Medicina,São José do Rio preto - SP,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,C,NA,20%,Igual,Igual,NA,NA,Aumentou,3,2,1,2 anos,NA,Maria,NA,60 e 150,6
+12,22,Homem,NA,Branco,NA,Superior (incompleto),2,Biológicas,Medicina,São José do Rio Preto,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,B,NA,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,1,2,3,Não sei,Maria,NA,NA,60 e 150,8
+13,28,Homem,NA,Asiático,NA,Pós graduação (incompleta),2,Humanas,Mestrado administração,Sao Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,C,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,10
+14,20,Mulher,NA,Asiático,NA,Superior (incompleto),2,Humanas,Marketing,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,NA,F,20%,Igual,Menos suscetível,NA,NA,Aumentou,1,2,3,1 ano,Maria,NA,NA,60 e 150,7
+15,22,Homem,NA,Branco,NA,Superior (incompleto),2,Saúde,Medicina,São José do Rio Preto,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,NA,F,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,1,2,3,1 ano,NA,NA,Maria,60 e 150,9
+16,22,Mulher,NA,Pardo,NA,Superior (incompleto),2,Biológicas,Farmácia e bioquímica,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",4,B,NA,NA,Não sei,NA,NA,Mais suscetível,Menos suscetível,Aumentou,1,2,3,Não sei,NA,Carolina,NA,30 e 90,6
+17,23,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,F,Não sei,Igual,Igual,NA,NA,Aumentou,1,2,3,1 ano,NA,NA,Carolina,60 e 150,8
+18,50,Homem,NA,Branco,NA,Superior (completo),2,Exatas,Tecnologia da Informação,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,B,NA,NA,20%,Mais suscetível,Igual,NA,NA,Permaneceu o mesmo,3,1,2,Não sei,Maria,NA,NA,60 e 150,9
+19,38,Homem,NA,Branco,NA,Ensino Fundamental (completo),1,Não cursei,NA,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,D,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,2,1,2 anos,Carolina,NA,NA,30 e 90,7
+20,22,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia de Produção,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",3,NA,NA,F,10%,NA,NA,Igual,Menos suscetível,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,10
+21,22,Homem,NA,Branco,NA,Superior (incompleto),2,Saúde,medicina,sao paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,10%,Igual,Igual,NA,NA,Aumentou,1,2,3,1 ano,NA,NA,Maria,60 e 150,10
+22,24,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Não cursei,NA,Porto Alegre,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",3,B,NA,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,Carolina,NA,NA,60 e 150,10
+23,25,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Marketing,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,D,NA,10%,Igual,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,7
+24,25,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,Rio de Janeiro,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,NA,F,10%,Igual,Igual,NA,NA,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,8
+25,66,Mulher,NA,Asiático,NA,Pós graduação (incompleta),2,Exatas,Engenharia Quimica,Campinas,NA,2,B,NA,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Permaneceu o mesmo,2,1,3,1 ano,Carolina,NA,NA,60 e 150,9
+26,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Marketing,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,D,NA,10%,NA,NA,Mais suscetível,Igual,Aumentou,1,2,3,1 ano,NA,Maria,NA,60 e 150,10
+27,22,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Psicologia,São Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",4,NA,NA,F,Não sei,Igual,Igual,NA,NA,Aumentou,2,3,1,6 meses,NA,NA,Maria,100 e 50,1
+28,61,Mulher,NA,Branco,NA,Superior (completo),2,Saúde,Especialização em técnicas integrativas,Campinas - SP,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,B,NA,NA,30%,NA,NA,Menos suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,5
+29,55,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Pedagogia Letras,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,B,NA,NA,30%,Menos suscetível,Mais suscetível,NA,NA,Permaneceu o mesmo,3,1,2,2 anos,Maria,NA,NA,60 e 150,7
+30,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Marketing,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,NA,F,20%,NA,NA,Igual,Igual,Aumentou,1,2,3,1 ano,NA,Carolina,NA,60 e 150,10
+31,26,Outro,Não binário,Branco,NA,Superior (completo),2,Humanas,Filosofia,Jaboticatubas,Até 1 salário mínimo (R$ 1045),1,NA,D,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,Carolina,NA,NA,60 e 150,4
+32,26,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Nutrição,Pelotas,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,NA,F,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,NA,NA,Carolina,60 e 150,9
+33,22,Homem,NA,Branco,NA,Ensino Médio (completo),1,Não cursei,NA,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",4,NA,D,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Diminuiu,3,2,1,Não sei,NA,NA,Carolina,60 e 150,6
+34,59,Mulher,NA,Branco,NA,Superior (completo),2,Biológicas,Odontologia,Sao paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",3,A,NA,NA,Não sei,Igual,Igual,NA,NA,Permaneceu o mesmo,2,1,3,1 ano,NA,Maria,NA,30 e 90,7
+35,22,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Saúde,Psicologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,D,NA,20%,NA,NA,Igual,Menos suscetível,Permaneceu o mesmo,3,1,2,1 ano,NA,Carolina,NA,60 e 150,3
+36,21,Homem,NA,Asiático,NA,Superior (incompleto),2,Humanas,Direito,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",4,NA,NA,E,20%,NA,NA,Mais suscetível,Menos suscetível,Permaneceu o mesmo,2,1,3,1 ano,Maria,NA,NA,60 e 150,9
+37,27,Homem,NA,Pardo,NA,Pós graduação (completa),2,Humanas,Música e Filosofia,São Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,B,NA,NA,Não sei,Menos suscetível,Igual,NA,NA,Permaneceu o mesmo,3,2,1,Não sei,NA,NA,Maria,60 e 150,5
+38,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia de Computação,São Paulo,NA,4,NA,D,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,2,1,1 ano,Maria,NA,NA,60 e 150,9
+39,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Letras,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,B,NA,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,NA,NA,Carolina,60 e 150,6
+40,22,Homem,NA,Branco,NA,Superior (incompleto),2,Saúde,medicina,Belo Horizonte,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,F,20%,NA,NA,Igual,Igual,Aumentou,1,2,3,1 ano,NA,NA,Carolina,60 e 150,9
+41,21,Homem,NA,Branco,NA,Superior (incompleto),2,Saúde,Medicina,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,D,NA,20%,Igual,Menos suscetível,NA,NA,Permaneceu o mesmo,1,2,3,2 anos,Maria,NA,NA,60 e 150,4
+42,50,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Administração,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,NA,D,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,1,2,3,1 ano,NA,Maria,NA,60 e 150,10
+43,23,Outro,Não,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",4,B,NA,NA,20%,Igual,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,Maria,NA,NA,60 e 150,8
+44,23,Mulher,NA,Preto,NA,Pós graduação (incompleta),2,Saúde,Pós graduação em analise comportamental aplicada ao autismo,sp,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,NA,E,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,8
+45,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,B,NA,NA,Não sei,Menos suscetível,Menos suscetível,NA,NA,Não sei,1,2,3,1 ano,Maria,NA,NA,60 e 150,8
+46,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Nutrição,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,D,NA,30%,Mais suscetível,Igual,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,8
+47,21,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Publicidade e Peopaganda,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,NA,F,Não sei,NA,NA,Mais suscetível,Igual,Aumentou,3,1,2,1 ano,NA,NA,Maria,60 e 150,5
+48,30,Homem,NA,Pardo,NA,Pós graduação (completa),2,Exatas,Administração,Belém,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",2,B,NA,NA,20%,Menos suscetível,Menos suscetível,NA,NA,Aumentou,2,3,1,Não sei,NA,Carolina,NA,60 e 150,7
+49,50,Homem,NA,Branco,NA,Pós graduação (completa),2,Exatas,Adm,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,F,30%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,2,1,1 ano,NA,NA,Maria,60 e 150,8
+50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,65,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Arquitetura,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,E,20%,NA,NA,Mais suscetível,Menos suscetível,Permaneceu o mesmo,1,2,3,1 ano,NA,Carolina,NA,60 e 150,NA
+54,67,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Administracao,Sao Caetano do sul,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",2,NA,D,NA,20%,Igual,Menos suscetível,NA,NA,Aumentou,3,1,2,1 ano,NA,NA,Maria,60 e 150,5
+55,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,24,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Direito,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,60 e 150,NA
+57,21,Mulher,NA,Branco,NA,Ensino Fundamental (incompleto),1,Humanas,teste,Sao paulo,Nenhuma,1,B,NA,NA,30%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,2,3,1,1 ano,NA,NA,Carolina,100 e 50,2
+58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,30,Homem,NA,Pardo,NA,Superior (completo),2,Exatas,gestão da produção industrial,são paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,10%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,30 e 90,8
+61,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia Quimica,Lorena,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,21,Homem,NA,Branco,NA,Superior (completo),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64,57,Mulher,NA,Outro (Especificar),Raça Humana.,Pós graduação (completa),2,Humanas,"Administração de empresa com enfase em análise de sistemas, e pós graduação em marketing",São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,B,NA,NA,30%,NA,NA,Igual,Menos suscetível,Permaneceu o mesmo,2,1,3,1 ano,NA,Maria,NA,60 e 150,8
+65,30,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Enfermagem - Concluído,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,D,NA,20%,Mais suscetível,Igual,NA,NA,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,9
+66,62,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Pedagogia,Boa Esperança,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,60 e 150,NA
+67,53,Mulher,NA,Asiático,NA,Superior (completo),2,Exatas,Desenho industrial,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,60 e 150,NA
+68,25,Mulher,NA,Asiático,NA,Superior (completo),2,Humanas,Publicidade,São paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Medicina,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,A,NA,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,NA,Carolina,NA,60 e 150,7
+71,25,Mulher,NA,Branco,NA,Superior (incompleto),2,Biológicas,Medicina,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,60 e 150,NA
+72,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Medicina,São José do Rio Preto,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA
+73,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Ciências Atuariais,SP,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,B,NA,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,2,3,1,1 ano,Carolina,NA,NA,60 e 150,8
+74,21,Mulher,NA,Branco,NA,Superior (completo),2,Artes,Artes plasticas,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA
+75,56,Mulher,NA,Asiático,NA,Superior (completo),2,Exatas,engenharia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,3,1,2,1 ano,Maria,NA,NA,60 e 150,9
+76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78,21,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Publicidade e propaganda,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,60 e 150,NA
+79,33,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Administração,São Marcos/RS,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,60 e 150,NA
+80,56,Homem,NA,Branco,NA,Pós graduação (completa),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,59,Mulher,NA,Asiático,NA,Superior (completo),2,Humanas,Artes/ DI,Sorocaba,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,90 e 60,NA
+82,56,Mulher,NA,Branco,NA,Superior (completo),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+83,22,Homem,NA,Branco,NA,Superior (incompleto),2,Artes,Música,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,60 e 150,NA
+84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+86,25,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Administração,Belém,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA,NA,NA
+87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+88,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,22,Homem,NA,Branco,NA,Superior (incompleto),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+90,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,Sao Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,F,30%,Mais suscetível,Menos suscetível,NA,NA,Permaneceu o mesmo,1,2,3,Não sei,NA,Carolina,NA,60 e 150,5
+91,23,Homem,NA,Branco,NA,Superior (incompleto),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+92,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Artes,Dança,Campinas,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,NA,NA,NA,NA,NA,Igual,Igual,Permaneceu o mesmo,3,1,2,Não sei,NA,Carolina,NA,60 e 150,NA
+93,41,Homem,NA,Branco,NA,Superior (completo),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+95,22,Mulher,NA,Branco,NA,Superior (incompleto),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+96,27,Mulher,NA,Branco,NA,Superior (completo),2,Saúde,Psicologia,São paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,100 e 50,NA
+97,75,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Não cursei,Nenhum,Sao paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",2,NA,D,NA,30%,Igual,Menos suscetível,NA,NA,Aumentou,1,3,2,Não sei,Carolina,NA,NA,30 e 90,5
+98,33,Homem,NA,Branco,NA,Pós graduação (completa),2,Exatas,Gestão Financeira,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+99,25,Homem,NA,Pardo,NA,Superior (completo),2,Exatas,Ciências Contábeis,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA
+100,36,Mulher,NA,Branco,NA,Superior (completo),2,Exatas,Gestao bancária,Osasco,NA,3,NA,NA,E,20%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,2,3,1,Não sei,NA,NA,Maria,60 e 150,10
+101,33,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia Civil,São Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,100 e 50,NA
+102,60,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Jornalismo,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,60 e 150,NA
+103,60,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Direito,Sao paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",2,NA,D,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,2,1,3,1 ano,Maria,NA,NA,60 e 150,7
+104,26,Homem,NA,Pardo,NA,Pós graduação (incompleta),2,Exatas,Engenharia Química,Osasco,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,NA,E,20%,Mais suscetível,Mais suscetível,NA,NA,Aumentou,1,2,3,1 ano,NA,Carolina,NA,60 e 150,10
+105,31,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Administração,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,B,NA,NA,20%,NA,NA,Igual,Menos suscetível,Permaneceu o mesmo,1,2,3,1 ano,NA,NA,Carolina,60 e 150,9
+106,26,Homem,NA,Asiático,NA,Superior (completo),2,Exatas,Engenharia de Produção,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,E,20%,NA,NA,Igual,Menos suscetível,Permaneceu o mesmo,1,3,2,Não sei,Maria,NA,NA,90 e 60,7
+107,26,Homem,NA,Branco,NA,Pós graduação (incompleta),2,Humanas,Administração,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,D,NA,20%,NA,NA,Igual,Igual,Aumentou,1,3,2,1 ano,NA,NA,Carolina,60 e 150,8
+108,54,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,NA,F,Não sei,Igual,Igual,NA,NA,Aumentou,3,2,1,Não sei,Carolina,NA,NA,60 e 150,8
+109,30,Homem,NA,Branco,NA,Pós graduação (completa),2,Exatas,Engenharia de produção,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,D,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,60 e 150,10
+110,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+111,76,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Direito e Adm. de empresas,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA
+112,44,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Administração,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+113,90,Homem,NA,Pardo,NA,Ensino Fundamental (incompleto),1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+114,28,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Direito,Jundiai,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",1,B,NA,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,NA,Carolina,NA,30 e 90,10
+115,29,Homem,NA,Preto,NA,Superior (completo),2,Humanas,Design digital,São paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,60 e 150,NA
+116,26,Homem,NA,Branco,NA,Pós graduação (completa),2,Exatas,Engenharia,Sao paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA,NA
+117,39,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA
+118,25,Mulher,NA,Branco,NA,Pós graduação (incompleta),2,Humanas,Marketing,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",2,B,NA,NA,10%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,7
+119,58,Mulher,NA,Branco,NA,Pós graduação (completa),2,Biológicas,Educacao Fisica,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,C,NA,20%,Menos suscetível,Menos suscetível,NA,NA,Diminuiu,2,1,3,Não sei,NA,Maria,NA,60 e 150,8
+120,46,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Administração,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,E,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,6 meses,NA,NA,Carolina,60 e 150,8
+121,73,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Direito,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,B,NA,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,2,1,3,1 ano,Maria,NA,NA,70 e 120,10
+122,71,Mulher,NA,Branco,NA,Superior (completo),2,Saúde,Psicologia,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,NA,E,20%,Igual,Menos suscetível,NA,NA,Aumentou,2,1,3,Não sei,NA,Maria,NA,60 e 150,7
+123,60,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Direito,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",1,NA,D,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,NA,Carolina,60 e 150,8
+124,28,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,Itapecerica da Serra,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,F,20%,Igual,Menos suscetível,NA,NA,Aumentou,3,1,2,1 ano,NA,NA,Maria,60 e 150,9
+125,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia de produção,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",5,NA,D,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,1,2,1 ano,Maria,NA,NA,60 e 150,10
+126,22,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Psicologia,São Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,3,Não sei,Carolina,NA,NA,60 e 150,NA
+127,22,Homem,NA,Branco,NA,Superior (completo),2,Exatas,Engenharia Mecânica,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,C,NA,20%,Mais suscetível,Menos suscetível,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,60 e 150,10
+128,21,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,Vargem Grande Paulista,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",5,NA,NA,E,20%,NA,NA,Mais suscetível,Menos suscetível,Permaneceu o mesmo,3,2,1,1 ano,NA,NA,Maria,60 e 150,4
+129,23,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Psicologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",2,B,NA,NA,20%,NA,NA,Igual,Igual,Aumentou,1,2,3,1 ano,NA,Maria,NA,60 e 150,6
+130,22,Homem,NA,Branco,NA,Superior (incompleto),2,Saúde,Medicina,Belo Horizonte,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",2,NA,NA,E,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,Não sei,Maria,NA,NA,60 e 150,9
+131,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",3,NA,D,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,10
+132,24,Homem,NA,Branco,NA,Superior (completo),2,Humanas,Administração,São paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,D,NA,20%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,1,2,3,1 ano,NA,NA,Maria,60 e 150,7
+133,21,Homem,NA,Branco,NA,Superior (incompleto),2,Saúde,Educação Física e Esporte,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,B,NA,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Permaneceu o mesmo,2,3,1,1 ano,NA,Maria,NA,60 e 150,7
+134,41,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Direito,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,90 e 60,NA
+135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+136,21,Mulher,NA,Branco,NA,Superior (completo),2,Artes,Animação,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,A,NA,NA,Não sei,NA,NA,Menos suscetível,Menos suscetível,Permaneceu o mesmo,3,2,1,1 ano,NA,Carolina,NA,60 e 150,7
+137,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+138,54,Mulher,NA,Branco,NA,Pós graduação (completa),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+139,26,Mulher,NA,Branco,NA,Superior (completo),2,Exatas,Engenharia Civil,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,NA,E,20%,Igual,Mais suscetível,NA,NA,Diminuiu,1,3,2,Não sei,NA,NA,Carolina,60 e 150,9
+140,57,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,SAO paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,A,NA,NA,10%,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,NA,Carolina,NA,60 e 150,7
+141,28,Homem,NA,Branco,NA,Pós graduação (completa),2,Exatas,Engenharia Ambiental,Paraná,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",4,NA,NA,F,30%,NA,NA,Igual,Menos suscetível,Aumentou,1,2,3,1 ano,NA,NA,Maria,60 e 150,7
+142,22,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Direito,Campina Grande (PB),"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",3,B,NA,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,60 e 150,10
+143,25,Homem,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,"São Paulo, SP","Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,Não sei,Igual,Igual,NA,NA,Permaneceu o mesmo,3,1,2,2 anos,NA,NA,Maria,60 e 150,8
+144,30,Homem,NA,Branco,NA,Pós graduação (incompleta),2,Saúde,Psicologia,Rio de Janeiro,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",4,NA,NA,E,20%,NA,NA,Menos suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,10
+145,23,Mulher,NA,Branco,NA,Superior (completo),2,Saúde,Psicologia,Brasilia,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",2,NA,D,NA,Não sei,Igual,Igual,NA,NA,Aumentou,3,2,1,1 ano,Carolina,NA,NA,60 e 150,6
+146,51,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Medicina,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,B,NA,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,Não sei,NA,Maria,NA,30 e 90,9
+147,43,Mulher,NA,Branco,NA,Pós graduação (completa),2,Biológicas,Medicina,Serra Negra,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,A,NA,NA,Não sei,NA,NA,Igual,Menos suscetível,Permaneceu o mesmo,1,2,3,Não sei,NA,Carolina,NA,60 e 150,3
+148,21,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia,SP,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,C,NA,20%,Igual,Menos suscetível,NA,NA,Aumentou,1,2,3,1 ano,NA,NA,Maria,60 e 150,8
+149,30,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Medicina,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",1,NA,NA,E,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,Maria,NA,NA,60 e 150,6
+150,37,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,B,NA,NA,Não sei,NA,NA,Igual,Igual,Permaneceu o mesmo,1,3,2,1 ano,Maria,NA,NA,60 e 150,7
+151,44,Homem,NA,Branco,NA,Superior (completo),2,Exatas,Engenharia,Porto Alegre,NA,NA,NA,D,NA,20%,Igual,Igual,NA,NA,Aumentou,1,2,3,1 ano,NA,Carolina,NA,60 e 150,9
+152,51,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Nutrição,Botucatu,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,NA,F,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,2,1,3,2 anos,Maria,NA,NA,60 e 150,8
+153,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psico,Sp,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA
+154,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Administração,Coimbra,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,60 e 150,NA
+155,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Medicina,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,60 e 150,NA
+156,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",4,B,NA,NA,20%,Igual,Menos suscetível,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,NA,Carolina,NA,60 e 150,8
+157,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Direito,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,60 e 150,NA
+158,25,Homem,NA,Branco,NA,Superior (completo),2,Exatas,Economia,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,3,NA,NA,Carolina,NA,60 e 150,NA
+159,27,Mulher,NA,Indígena,NA,Pós graduação (incompleta),2,Artes,Design,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,C,NA,20%,Mais suscetível,Igual,NA,NA,Não sei,3,2,1,Não sei,NA,Maria,NA,60 e 150,1
+160,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+161,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+162,34,Homem,NA,Branco,NA,Pós graduação (completa),2,Biológicas,Educação Física,Governador Valadares,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",4,NA,D,NA,30%,NA,NA,Igual,Igual,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,100 e 50,3
+163,32,Mulher,NA,Pardo,NA,Pós graduação (completa),2,Humanas,Administração,Belém,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",1,A,NA,NA,20%,Igual,Igual,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,9
+164,32,Homem,NA,Pardo,NA,Pós graduação (completa),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+165,59,Mulher,NA,Pardo,NA,Superior (completo),2,Não cursei,Nao cursei,Sao paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+166,23,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Jornalismo,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,NA,F,Não sei,NA,NA,Igual,Igual,Aumentou,1,2,3,1 ano,NA,NA,Carolina,60 e 150,6
+167,18,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Bacharelado em Ciências e Tecnologia,Ribeirão PIres,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",5,B,NA,NA,20%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,1,2,3,1 ano,NA,Carolina,NA,60 e 150,6
+168,22,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Psicologia,Braga,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",5,NA,NA,E,Não sei,NA,NA,Igual,Menos suscetível,Aumentou,2,3,1,1 ano,Maria,NA,NA,70 e 120,5
+169,26,Mulher,NA,Branco,NA,Pós graduação (incompleta),2,Humanas,Psicologia,Sp,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,A,NA,NA,10%,NA,NA,Mais suscetível,Igual,Aumentou,3,2,1,1 ano,Carolina,NA,NA,60 e 150,8
+170,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+171,22,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Psicologia,São Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,60 e 150,NA
+172,23,Mulher,NA,Branco,NA,Superior (completo),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+173,27,Mulher,NA,Branco,NA,Pós graduação (incompleta),2,Biológicas,Biologia,SP,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,F,20%,NA,NA,Igual,Igual,Aumentou,3,2,1,2 anos,NA,Maria,NA,60 e 150,7
+174,30,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Medicina,Sao Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+175,28,Homem,NA,Branco,NA,Superior (completo),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+176,51,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Nutrição,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",1,NA,NA,E,Não sei,NA,NA,Igual,Menos suscetível,Aumentou,2,1,3,Não sei,NA,NA,Maria,60 e 150,8
+177,23,Homem,NA,Branco,NA,Superior (completo),2,Humanas,Administração e atualmente Teatro,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,A,NA,NA,20%,NA,NA,Igual,Menos suscetível,Aumentou,3,2,1,1 ano,NA,Maria,NA,60 e 150,5
+178,52,Mulher,NA,Pardo,NA,Pós graduação (completa),2,Humanas,Letras,Sao Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA
+179,35,Mulher,NA,Branco,NA,Pós graduação (completa),2,Biológicas,Tecnologia em Aquicultura,Itajaí,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,D,NA,20%,NA,NA,Igual,Menos suscetível,Aumentou,1,2,3,2 anos,NA,NA,Carolina,60 e 150,8
+180,20,Mulher,NA,Preto,NA,Superior (incompleto),2,Biológicas,Psicologia,Campina Grande,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",4,B,NA,NA,20%,Mais suscetível,Igual,NA,NA,Aumentou,3,2,1,1 ano,Maria,NA,NA,60 e 150,4
+181,50,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Letras,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,NA,NA,NA,NA,NA,NA,Menos suscetível,Igual,Aumentou,3,1,2,1 ano,NA,Maria,NA,60 e 150,NA
+182,26,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Design de Moda,Campinas,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",2,NA,C,NA,Não sei,Mais suscetível,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,Maria,NA,NA,60 e 150,3
+183,21,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia da Computação,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,C,NA,20%,Mais suscetível,Igual,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,Maria,NA,NA,60 e 150,7
+184,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Direito,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,NA,F,20%,NA,NA,Igual,Igual,Aumentou,1,2,3,1 ano,Maria,NA,NA,60 e 150,4
+185,25,Mulher,NA,Branco,NA,Pós graduação (incompleta),2,Humanas,Marketing,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,B,NA,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,1,2,1 ano,NA,Carolina,NA,60 e 150,8
+186,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Artes,Arquitetura e Urbanismo,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,D,NA,20%,Igual,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,8
+187,24,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,Santos,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",3,A,NA,NA,20%,Mais suscetível,Igual,NA,NA,Permaneceu o mesmo,2,3,1,1 ano,NA,Carolina,NA,60 e 150,6
+188,22,Homem,NA,Pardo,NA,Superior (incompleto),2,Humanas,Relações Internacionais,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,B,NA,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,2,3,1,1 ano,NA,NA,Maria,60 e 150,10
+189,51,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Não cursei,NA,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,F,Não sei,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,Não sei,Maria,NA,NA,90 e 60,1
+190,18,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",4,NA,C,NA,Não sei,NA,NA,Igual,Menos suscetível,Permaneceu o mesmo,1,2,3,1 ano,NA,Carolina,NA,60 e 150,7
+191,35,Mulher,NA,Branco,NA,Pós graduação (completa),2,Biológicas,Aquicultura,Itajaí,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+192,21,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Publicidade e propaganda,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",4,NA,NA,F,20%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,NA,NA,Carolina,60 e 150,6
+193,21,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia Agronômica,São Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,NA,E,20%,NA,NA,Igual,Menos suscetível,Aumentou,1,2,3,2 anos,NA,NA,Maria,60 e 150,8
+194,26,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,B,NA,NA,Não sei,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,60 e 150,8
+195,41,Mulher,NA,Pardo,NA,Superior (incompleto),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+196,19,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,ciência da computação,Caratinga MG,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",5,NA,C,NA,40%,NA,NA,Mais suscetível,Igual,Aumentou,2,1,3,1 ano,NA,Maria,NA,90 e 60,4
+197,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,C,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,1,2,1 ano,NA,Maria,NA,60 e 150,9
+198,18,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Biológicas,psicologia,sp,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,D,NA,10%,Igual,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,7
+199,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Direito,Sao Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,B,NA,NA,Não sei,Igual,Igual,NA,NA,Aumentou,1,2,3,Não sei,NA,Maria,NA,60 e 150,6
+200,57,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Pedagogia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,F,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,1,2,1 ano,Maria,NA,NA,60 e 150,10
+201,41,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Direito,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,Não sei,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,NA,NA,Maria,60 e 150,10
+202,52,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,"Direito, História, Contabilidade",Sao paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,B,NA,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,60 e 150,8
+203,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,Montréal / Sao Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,NA,F,20%,Menos suscetível,Menos suscetível,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,NA,NA,Carolina,60 e 150,3
+204,24,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Direito,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,NA,NA,NA,Mais suscetível,Menos suscetível,NA,NA,Aumentou,1,2,3,1 ano,NA,NA,Maria,60 e 150,NA
+205,21,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Ciência da Computação,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",6 ou mais,NA,C,NA,Não sei,NA,NA,Mais suscetível,Igual,Aumentou,2,3,1,2 anos,Maria,NA,NA,60 e 150,8
+206,23,Mulher,NA,Asiático,NA,Superior (incompleto),2,Saúde,Medicina,Sao paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,F,30%,Igual,Menos suscetível,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,60 e 150,6
+207,22,Homem,NA,Asiático,NA,Superior (incompleto),2,Saúde,Medicina,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,D,NA,30%,Mais suscetível,Menos suscetível,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,NA,Maria,NA,60 e 150,7
+208,22,Mulher,NA,Asiático,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,B,NA,NA,20%,NA,NA,Mais suscetível,Igual,Aumentou,3,1,2,1 ano,NA,Carolina,NA,60 e 150,8
+209,22,Mulher,NA,Asiático,NA,Superior (incompleto),2,Humanas,Publicidade e Propaganda,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,NA,E,Não sei,Igual,Menos suscetível,NA,NA,Aumentou,1,2,3,1 ano,NA,Maria,NA,60 e 150,5
+210,52,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Não cursei,NA,Sâo Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,90 e 60,NA
+211,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Biológicas,Medicina,Votuporanga,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,D,NA,20%,Menos suscetível,Menos suscetível,NA,NA,Não sei,3,2,1,1 ano,NA,NA,Maria,30 e 90,5
+212,24,Mulher,NA,Branco,NA,Pós graduação (incompleta),2,Biológicas,Ciências Biomédicas,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,B,NA,NA,20%,Menos suscetível,Igual,NA,NA,Aumentou,1,2,3,Não sei,NA,Maria,NA,60 e 150,9
+213,21,Homem,NA,Branco,NA,Superior (incompleto),2,Biológicas,Psicologia,Sao Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",4,NA,NA,F,20%,NA,NA,Igual,Menos suscetível,Permaneceu o mesmo,3,2,1,1 ano,NA,NA,Maria,60 e 150,7
+214,22,Mulher,NA,Asiático,NA,Superior (incompleto),2,Saúde,Medicina Veterinária,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,D,NA,20%,Menos suscetível,Menos suscetível,NA,NA,Aumentou,3,1,2,1 ano,NA,Maria,NA,60 e 150,5
+215,22,Homem,NA,Asiático,NA,Superior (incompleto),2,Saúde,Medicina,São paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,F,20%,NA,NA,Mais suscetível,Menos suscetível,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,60 e 150,8
+216,24,Mulher,NA,Branco,NA,Superior (completo),2,Artes,Moda,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",3,B,NA,NA,20%,Igual,Igual,NA,NA,Aumentou,2,1,3,1 ano,Maria,NA,NA,60 e 150,9
+217,35,Homem,NA,Asiático,NA,Superior (completo),2,Exatas,Eng. Mecânica,Sumaré - SP,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,C,NA,20%,Mais suscetível,Menos suscetível,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,NA,NA,Maria,60 e 150,10
+218,20,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Exatas,Arquitetura,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,F,10%,Igual,Igual,NA,NA,Aumentou,3,2,1,1 ano,NA,Maria,NA,60 e 150,5
+219,55,Mulher,NA,Asiático,NA,Pós graduação (completa),2,Exatas,Analise de sistemas e economia,Sao Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",2,NA,NA,E,Não sei,NA,NA,Igual,Menos suscetível,Aumentou,2,1,3,1 ano,Maria,NA,NA,90 e 60,7
+220,22,Mulher,NA,Preto,NA,Ensino Médio (completo),1,Humanas,psicologia,são paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,B,NA,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,2,1,1 ano,NA,NA,Carolina,60 e 150,7
+221,24,Homem,NA,Pardo,NA,Superior (incompleto),2,Humanas,Administração,Porto Alegre,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,NA,F,10%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,Carolina,NA,NA,60 e 150,8
+222,66,Mulher,NA,Branco,NA,Pós graduação (completa),2,Biológicas,Psicologia,Umuarama PR,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",1,NA,C,NA,30%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,4
+223,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+224,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,Até 1 salário mínimo (R$ 1045),1,NA,NA,E,Não sei,Menos suscetível,Menos suscetível,NA,NA,Aumentou,3,2,1,Não sei,Carolina,NA,NA,90 e 60,2
+225,23,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia Civil,Sao Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA,NA
+226,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Jornalismo,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+227,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+228,22,Mulher,NA,Branco,NA,Superior (completo),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+229,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+230,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+231,21,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Saúde,Psicologia,São paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",5,NA,NA,E,20%,NA,NA,Igual,Igual,Aumentou,3,1,2,1 ano,Maria,NA,NA,60 e 150,4
+232,39,Mulher,NA,Pardo,NA,Ensino Fundamental (incompleto),1,Não cursei,NA,São Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,100 e 50,NA
+233,29,Mulher,NA,Branco,NA,Superior (completo),2,Saúde,Medicina,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA,NA
+234,24,Homem,NA,Pardo,NA,Superior (incompleto),2,Exatas,Engenharia da Informação,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,B,NA,NA,20%,NA,NA,Igual,Igual,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,10
+235,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+236,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+237,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+238,18,Mulher,NA,Branco,NA,Ensino Médio (incompleto),1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+239,18,Mulher,NA,Branco,NA,Ensino Médio (incompleto),1,Exatas,Engenharia Química,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+240,27,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Direito,Campinas,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,60 e 150,NA
+241,22,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Arquitetura,Sao Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,B,NA,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,Não sei,NA,Maria,NA,60 e 150,6
+242,57,Homem,NA,Branco,NA,Superior (completo),2,Exatas,Fisica,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA,NA
+243,25,Mulher,NA,Preto,NA,Superior (completo),2,Artes,Teatro,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,60 e 150,NA
+244,58,Mulher,NA,Branco,NA,Superior (incompleto),2,Não cursei,NA,Sp,Nenhuma,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,60 e 150,NA
+245,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Nutrição,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,60 e 150,NA
+246,22,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Saúde,Medicina veterinária,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,70 e 120,NA
+247,28,Mulher,NA,Branco,NA,Pós graduação (completa),2,Exatas,Administração,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,C,NA,Não sei,NA,NA,Igual,Menos suscetível,Permaneceu o mesmo,3,2,1,Não sei,Maria,NA,NA,60 e 150,10
+248,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Biológicas,Obstetrícia,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,B,NA,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,NA,Carolina,60 e 150,6
+249,54,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Não cursei,NA,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,30%,Menos suscetível,Menos suscetível,NA,NA,Aumentou,2,1,3,1 ano,NA,NA,Maria,60 e 150,3
+250,21,Homem,NA,Asiático,NA,Superior (completo),2,Humanas,Letras,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA,NA
+251,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+252,21,Mulher,NA,Pardo,NA,Superior (incompleto),2,Saúde,Psicologia,Recife,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",6 ou mais,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,60 e 150,NA
+253,25,Mulher,NA,Branco,NA,Superior (completo),2,Artes,Design Digital,Santos - SP,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",6 ou mais,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA,60 e 150,NA
+254,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+255,22,Mulher,NA,Asiático,NA,Superior (incompleto),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+256,61,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Sociologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,A,NA,NA,20%,Igual,Menos suscetível,NA,NA,Não sei,3,2,1,1 ano,NA,Carolina,NA,60 e 150,7
+257,22,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Direito,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA
+258,58,Mulher,NA,Outro (Especificar),amarela,Superior (completo),2,Biológicas,Ciências Biológicas,Campinas,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,60 e 150,NA
+259,55,Homem,NA,Branco,NA,Superior (completo),2,Exatas,Tecnologia em Processamento de Dados,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,30 e 90,NA
+260,28,Homem,NA,Branco,NA,Pós graduação (incompleta),2,Biológicas,Biologia,Curitiba,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,C,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,2,1,1 ano,NA,NA,Maria,60 e 150,5
+261,50,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,Mogi das Cruzes,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+263,43,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,Cascais,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,1,1 ano,Maria,NA,NA,60 e 150,NA
+264,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,60 e 150,NA
+265,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+266,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+267,40,Mulher,NA,Branco,NA,Ensino Médio (incompleto),1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+268,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Fisioterapia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,60 e 150,NA
+269,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+270,37,Homem,NA,Pardo,NA,Pós graduação (completa),2,Humanas,Ciência da Informação,Salvador,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",1,NA,D,NA,20%,Mais suscetível,Menos suscetível,NA,NA,Permaneceu o mesmo,2,1,3,Não sei,NA,Maria,NA,60 e 150,9
+271,20,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Humanas,Economia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA,NA
+272,32,Homem,NA,Pardo,NA,Pós graduação (incompleta),2,Exatas,Administração,Belém,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA,60 e 150,NA
+273,32,Homem,NA,Pardo,NA,Pós graduação (incompleta),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+274,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,medicina,araras,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,B,NA,NA,20%,NA,NA,Mais suscetível,Mais suscetível,Aumentou,2,3,1,1 ano,NA,NA,Carolina,100 e 50,8
+275,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Biológicas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,NA,F,20%,Igual,Menos suscetível,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,NA,Maria,NA,60 e 150,5
+276,32,Homem,NA,Branco,NA,Superior (completo),2,Humanas,História e agora Psicologia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",2,NA,D,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,60 e 150,9
+277,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,Carapicuíba,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",4,B,NA,NA,20%,Igual,Igual,NA,NA,Aumentou,3,2,1,1 ano,Maria,NA,NA,60 e 150,6
+278,23,Homem,NA,Asiático,NA,Superior (incompleto),2,Saúde,Medicina,Campinas,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",5,NA,NA,E,20%,NA,NA,Mais suscetível,Menos suscetível,Permaneceu o mesmo,3,1,2,1 ano,NA,Carolina,NA,30 e 90,6
+279,20,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Economia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,C,NA,Não sei,Mais suscetível,Menos suscetível,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,NA,Carolina,NA,60 e 150,9
+280,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,SP,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,B,NA,NA,Não sei,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,NA,Carolina,60 e 150,10
+281,19,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Economia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",4,NA,NA,E,Não sei,NA,NA,Igual,Igual,Aumentou,1,3,2,1 ano,NA,NA,Carolina,60 e 150,8
+282,19,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Humanas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",4,B,NA,NA,Não sei,Mais suscetível,Igual,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,60 e 150,6
+283,18,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,C,NA,Não sei,NA,NA,Mais suscetível,Igual,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,9
+284,31,Mulher,NA,Branco,NA,Superior (completo),2,Artes,DESENHO DE MODA,SÃO PAULO,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,NA,E,10%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,9
+285,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,NA,4,B,NA,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,2,1,Não sei,NA,NA,Carolina,60 e 150,6
+286,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,psicologia,são paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,NA,E,Não sei,NA,NA,Igual,Igual,Aumentou,1,2,3,Não sei,NA,NA,Carolina,60 e 150,7
+287,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",4,NA,D,NA,20%,Mais suscetível,Igual,NA,NA,Aumentou,3,2,1,Não sei,Maria,NA,NA,60 e 150,6
+288,19,Homem,NA,Branco,NA,Ensino Médio (completo),1,Humanas,PSICOLOGIA,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,B,NA,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,9
+289,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,F,30%,Mais suscetível,Mais suscetível,NA,NA,Aumentou,3,2,1,Não sei,Carolina,NA,NA,60 e 150,6
+290,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,Santo Andre,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",3,B,NA,NA,20%,Mais suscetível,Igual,NA,NA,Aumentou,3,2,1,Não sei,NA,NA,Maria,60 e 150,7
+291,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,Sao Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA
+292,21,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Humanas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+293,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,psicologia,sao paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,60 e 150,NA
+294,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia e Filosofia,são paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,70 e 120,NA
+295,20,Homem,NA,Branco,NA,Ensino Médio (completo),1,Saúde,Psicologia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",4,NA,NA,E,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,3
+296,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Biológicas,Biologia,Poá - Sp,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",5,NA,D,NA,20%,NA,NA,Menos suscetível,Menos suscetível,Diminuiu,3,2,1,Não sei,NA,Carolina,NA,60 e 150,7
+297,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,Carolina,NA,NA,60 e 150,7
+298,27,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Economia,Porto Alegre,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,NA,E,10%,Mais suscetível,Mais suscetível,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,100 e 50,7
+299,18,Mulher,NA,Branco,NA,Ensino Médio (completo),1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+300,34,Homem,NA,Branco,NA,Superior (completo),2,Humanas,Relações Internacionais,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,B,NA,NA,Não sei,NA,NA,Igual,Igual,Permaneceu o mesmo,1,2,3,Não sei,NA,NA,Carolina,60 e 150,9
+301,60,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,NA,D,NA,Não sei,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,Não sei,Maria,NA,NA,60 e 150,9
+302,28,Mulher,NA,Asiático,NA,Superior (completo),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,60 e 150,NA
+303,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,100 e 50,NA
+304,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,psicologia,são paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA,NA
+305,21,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Humanas,PSICOLOGIA,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,A,NA,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,2,1,3,Não sei,Maria,NA,NA,60 e 150,8
+306,18,Mulher,NA,Asiático,NA,Ensino Médio (completo),1,Saúde,psicologia,sao paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+307,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+308,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA,60 e 150,NA
+309,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+310,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+311,44,Mulher,NA,Asiático,NA,Pós graduação (completa),2,Humanas,Administração,Londrina,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA
+312,18,Homem,NA,Preto,NA,Ensino Médio (completo),1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+313,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+315,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,Santo André,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,60 e 150,NA
+316,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+317,40,Mulher,NA,Branco,NA,Pós graduação (incompleta),2,Humanas,Psicologia,Guaratinguetá-SP,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",4,NA,D,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,Carolina,NA,NA,60 e 150,8
+318,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+319,49,Homem,NA,Pardo,NA,Superior (completo),2,Humanas,Geografia,Rio de janeiro,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",5,B,NA,NA,20%,Igual,Igual,NA,NA,Aumentou,1,2,3,1 ano,NA,NA,Maria,60 e 150,9
+320,49,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia e Pedagogia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",4,NA,NA,F,10%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,3,1,2,1 ano,NA,Maria,NA,60 e 150,6
+321,42,Mulher,NA,Preto,NA,Superior (completo),2,Humanas,Artes Visuais,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",4,NA,C,NA,30%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,7
+322,23,Mulher,NA,Pardo,NA,Superior (completo),2,Humanas,Ciências do consumo,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",2,NA,NA,E,20%,NA,NA,Menos suscetível,Mais suscetível,Aumentou,1,3,2,1 ano,Maria,NA,NA,60 e 150,4
+323,46,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Letras,São paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,D,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,1,2,1 ano,NA,NA,Carolina,60 e 150,9
+324,52,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Musicoterapia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,A,NA,NA,10%,Igual,Menos suscetível,NA,NA,Aumentou,2,1,3,1 ano,NA,Carolina,NA,100 e 50,10
+325,21,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,"São Paulo, SP","De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",3,NA,NA,E,20%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,1,3,2,1 ano,NA,NA,Maria,60 e 150,8
+326,43,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Direito,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,D,NA,20%,NA,NA,Igual,Menos suscetível,Aumentou,1,2,3,1 ano,Maria,NA,NA,60 e 150,9
+327,26,Mulher,NA,Branco,NA,Superior (completo),2,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,B,NA,NA,20%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,1,2,3,1 ano,NA,Carolina,NA,60 e 150,9
+328,23,Mulher,NA,Pardo,NA,Superior (completo),2,Saúde,Psicologia,"Cotia, SP",Até 1 salário mínimo (R$ 1045),1,NA,C,NA,20%,Mais suscetível,Igual,NA,NA,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,9
+329,38,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Direito,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",4,NA,D,NA,20%,NA,NA,Igual,Menos suscetível,Aumentou,3,1,2,Não sei,NA,NA,Carolina,60 e 150,9
+330,39,Mulher,NA,Pardo,NA,Pós graduação (incompleta),2,Humanas,Direito,Rio Grande da Serra,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",5,NA,NA,F,30%,Menos suscetível,Menos suscetível,NA,NA,Diminuiu,2,3,1,1 ano,NA,NA,Maria,60 e 150,7
+331,41,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Pedagogia,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,NA,NA,NA,NA,NA,Igual,Menos suscetível,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,NA
+332,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+333,45,Mulher,NA,Preto,NA,Pós graduação (completa),2,Humanas,Serviço Social,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",2,A,NA,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,2,3,1,1 ano,Maria,NA,NA,60 e 150,7
+334,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+335,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+336,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+337,74,Mulher,NA,Branco,NA,Superior (completo),2,Artes,Artes Plasticas,Sao Paulo,Nenhuma,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA,NA
+338,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+339,47,Mulher,NA,Branco,NA,Pós graduação (completa),2,Exatas,Engenharia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA
+340,23,Mulher,NA,Branco,NA,Pós graduação (incompleta),2,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,B,NA,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,3,1,2,1 ano,NA,NA,Carolina,90 e 60,7
+341,52,Mulher,NA,Branco,NA,Superior (completo),2,Saúde,Psicologia,São Paulo,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+342,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+343,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+344,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+345,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+346,49,Homem,NA,Preto,NA,Pós graduação (completa),2,Humanas,Direito,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,60 e 150,NA
+347,59,Homem,NA,Pardo,NA,Pós graduação (completa),2,Humanas,Direito,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,F,20%,NA,NA,Igual,Menos suscetível,Aumentou,2,1,3,1 ano,Maria,NA,NA,90 e 60,5
+348,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+349,31,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Enfermagem,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,60 e 150,NA
+350,57,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Serviço Social,Rio de Janeiro,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,B,NA,NA,Não sei,NA,NA,Igual,Menos suscetível,Aumentou,3,2,1,1 ano,NA,Maria,NA,60 e 150,4
+351,23,Homem,NA,Branco,NA,Superior (completo),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,NA,NA,E,20%,Mais suscetível,Menos suscetível,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,60 e 150,10
+352,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+353,68,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,Fortaleza,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA
+354,23,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Marketing,Medellín,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",1,NA,D,NA,20%,Menos suscetível,Menos suscetível,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,NA,NA,Maria,60 e 150,9
+355,28,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,Brasília,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",5,A,NA,NA,20%,NA,NA,Igual,Mais suscetível,Aumentou,3,2,1,1 ano,NA,Maria,NA,60 e 150,6
+356,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+357,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+358,49,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Publicidade e Propaganda,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,C,NA,Não sei,NA,NA,Mais suscetível,Menos suscetível,Permaneceu o mesmo,3,1,2,2 anos,NA,NA,Maria,60 e 150,7
+359,36,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,Sao paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,B,NA,NA,10%,Mais suscetível,Mais suscetível,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,90 e 60,4
+360,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",2,NA,NA,F,20%,NA,NA,Igual,Menos suscetível,Aumentou,3,1,2,1 ano,NA,Maria,NA,60 e 150,7
+361,19,Mulher,NA,Preto,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,C,NA,20%,Mais suscetível,Igual,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,5
+362,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,A,NA,NA,20%,NA,NA,Igual,Menos suscetível,Permaneceu o mesmo,1,2,3,Não sei,Maria,NA,NA,70 e 120,6
+363,47,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,fisioterapia e educação física,Osasco,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",3,NA,NA,E,20%,Menos suscetível,Menos suscetível,NA,NA,Permaneceu o mesmo,2,1,3,1 ano,NA,NA,Maria,60 e 150,5
+364,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,E,Não sei,Igual,Igual,NA,NA,Aumentou,3,2,1,1 ano,NA,Maria,NA,60 e 150,5
+365,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,Santana de Parnaíba,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",5,NA,D,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,2,1,3,1 ano,Maria,NA,NA,60 e 150,7
+366,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,D,NA,20%,NA,NA,Mais suscetível,Igual,Aumentou,3,2,1,1 ano,NA,NA,Carolina,60 e 150,6
+367,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,NA,E,20%,NA,NA,Menos suscetível,Menos suscetível,Aumentou,1,2,3,1 ano,NA,Maria,NA,60 e 150,7
+368,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",6 ou mais,B,NA,NA,20%,Mais suscetível,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,Maria,NA,NA,30 e 90,5
+369,28,Homem,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,D,NA,30%,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,NA,NA,Carolina,60 e 150,8
+370,75,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,NA,NA,F,30%,NA,NA,Menos suscetível,Igual,Diminuiu,3,2,1,1 ano,NA,NA,Maria,60 e 150,9
+371,67,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,B,NA,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Permaneceu o mesmo,2,1,3,1 ano,NA,Maria,NA,60 e 150,1
+372,53,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,São Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",2,B,NA,NA,Não sei,Igual,Igual,NA,NA,Aumentou,1,2,3,1 ano,NA,Maria,NA,60 e 150,8
+373,42,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Fisioterapia,Amparo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,F,20%,Igual,Igual,NA,NA,Aumentou,1,2,3,1 ano,NA,NA,Carolina,60 e 150,9
+374,22,Mulher,NA,Pardo,NA,Superior (incompleto),2,Humanas,Psicologia,Sao Pauloa,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",6 ou mais,NA,D,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,Maria,NA,60 e 150,6
+375,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",2,NA,D,NA,20%,NA,NA,Igual,Menos suscetível,Aumentou,3,1,2,1 ano,Maria,NA,NA,60 e 150,9
+376,22,Mulher,NA,Branco,NA,Ensino Fundamental (completo),1,Humanas,Administração com gestão em comércio exterior,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,NA,NA,F,30%,Menos suscetível,Menos suscetível,NA,NA,Aumentou,1,2,3,Não sei,NA,NA,Maria,60 e 150,7
+377,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia de computação,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",6 ou mais,B,NA,NA,30%,Igual,Igual,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,NA,Maria,NA,60 e 150,9
+378,20,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Marketing e Ciência e Tecnologia,Santo André,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",4,B,NA,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,2,1,3,Não sei,Maria,NA,NA,60 e 150,10
+379,22,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Química,São Paulo,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",2,NA,NA,F,20%,Igual,Menos suscetível,NA,NA,Aumentou,1,3,2,1 ano,NA,NA,Carolina,60 e 150,10
+380,23,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Nutrição,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",4,NA,D,NA,20%,Menos suscetível,Menos suscetível,NA,NA,Aumentou,1,2,3,1 ano,NA,NA,Carolina,60 e 150,6
+381,20,Homem,NA,Branco,NA,Superior (incompleto),2,Artes,Publicidade e Propaganda,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",3,NA,NA,F,20%,NA,NA,Igual,Igual,Aumentou,1,3,2,1 ano,NA,Maria,NA,60 e 150,8
+382,51,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Direito,"Fora do Brasil, Áustria","Mais de 15 salários mínimos (mais de R$ 15675,01)",5,B,NA,NA,20%,NA,NA,Igual,Igual,Permaneceu o mesmo,1,2,3,1 ano,NA,Carolina,NA,60 e 150,10
+383,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,20%,Igual,Menos suscetível,NA,NA,Permaneceu o mesmo,3,1,2,1 ano,NA,NA,Carolina,60 e 150,7
+384,23,Homem,NA,Branco,NA,Pós graduação (incompleta),2,Exatas,Engenharia Mecânica,Sâo Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,NA,NA,Carolina,60 e 150,10
+385,25,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,relaçoes internacionais,osasco,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,A,NA,NA,Não sei,NA,NA,Mais suscetível,Mais suscetível,Permaneceu o mesmo,2,1,3,1 ano,NA,Maria,NA,60 e 150,6
+386,20,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Sistemas de informação,Maceió,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",4,NA,NA,E,20%,Igual,Igual,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,NA,NA,Carolina,60 e 150,9
+387,24,Homem,NA,Branco,NA,Superior (completo),2,Artes,Administração e Teatro,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,E,Não sei,NA,NA,Igual,Menos suscetível,Aumentou,3,2,1,Não sei,Carolina,NA,NA,60 e 150,7
+388,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,B,NA,NA,20%,Mais suscetível,Mais suscetível,NA,NA,Permaneceu o mesmo,1,2,3,1 ano,Maria,NA,NA,30 e 90,9
+389,21,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Economia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,NA,D,NA,20%,NA,NA,Igual,Igual,Aumentou,1,2,3,1 ano,NA,NA,Maria,70 e 120,9
+390,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,Sao Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,F,30%,NA,NA,Igual,Igual,Aumentou,1,2,3,1 ano,Maria,NA,NA,60 e 150,5
+391,21,Homem,NA,Branco,NA,Superior (incompleto),2,Exatas,Engenharia Mecânica,São Carlos,"Mais de 15 salários mínimos (mais de R$ 15675,01)",6 ou mais,B,NA,NA,20%,Igual,Igual,NA,NA,Aumentou,1,2,3,1 ano,NA,NA,Carolina,60 e 150,10
+392,43,Homem,NA,Branco,NA,Pós graduação (completa),2,Exatas,Engenharia Química,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,B,NA,NA,20%,NA,NA,Igual,Menos suscetível,Aumentou,1,2,3,1 ano,NA,Carolina,NA,60 e 150,10
+393,55,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,D,NA,20%,NA,NA,Igual,Igual,Aumentou,2,1,3,1 ano,Maria,NA,NA,90 e 60,7
+394,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+395,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+396,20,Mulher,NA,Pardo,NA,Superior (incompleto),2,Saúde,Psicologia,Osasco,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,60 e 150,NA
+397,19,Homem,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+398,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+399,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+400,75,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,fonoaudiologia,sao paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",1,B,NA,NA,30%,Menos suscetível,Menos suscetível,NA,NA,Aumentou,2,3,1,1 ano,NA,Maria,NA,60 e 150,4
+401,23,Mulher,NA,Asiático,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,60 e 150,NA
+402,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+403,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+404,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,psicologia,são paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,60 e 150,NA
+405,22,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"De 12 a 15 salários mínimos (R$ 12540,01 até R$ 15675)",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA,60 e 150,NA
+406,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+407,20,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+409,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+410,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Administração,Itajubá,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,3,2,1 ano,NA,Maria,NA,60 e 150,NA
+411,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+412,66,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA,NA
+413,73,Homem,NA,Preto,NA,Pós graduação (incompleta),2,Não cursei,NA,São Luís,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA,100 e 50,NA
+414,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+415,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Exatas,Administração,Coimbra,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA,NA
+416,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+417,19,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,psicologia,são caetano do sul,Nenhuma,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA
+418,23,Homem,NA,Pardo,NA,Ensino Médio (incompleto),1,Artes,E,U,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",4,NA,NA,NA,NA,Igual,Igual,NA,NA,Aumentou,2,3,1,1 ano,NA,Maria,NA,60 e 150,NA
+419,63,Mulher,NA,Branco,NA,Pós graduação (completa),2,Humanas,Comunicação Social,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,2,6 meses,NA,NA,Maria,60 e 150,NA
+420,40,Homem,NA,Asiático,NA,Pós graduação (completa),2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+421,67,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Psicologia,são Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,100 e 50,NA
+422,40,Mulher,NA,Branco,NA,Pós graduação (completa),2,Artes,Artes Cênicas,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,60 e 150,NA
+423,74,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Fonoaudiologia,SP,"Mais de 15 salários mínimos (mais de R$ 15675,01)",3,NA,NA,NA,NA,NA,NA,Mais suscetível,Mais suscetível,Aumentou,2,1,3,1 ano,Maria,NA,NA,30 e 90,NA
+424,19,Mulher,NA,Branco,NA,Ensino Médio (completo),1,Saúde,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",5,NA,D,NA,20%,Igual,Menos suscetível,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,9
+425,67,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Fonoaudiologia,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",3,NA,NA,F,20%,NA,NA,Menos suscetível,Menos suscetível,Permaneceu o mesmo,1,2,3,1 ano,NA,NA,Maria,60 e 150,8
+426,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+427,26,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,ciências e humanidades,sao paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",2,B,NA,NA,20%,Mais suscetível,Igual,NA,NA,Permaneceu o mesmo,3,2,1,Não sei,Maria,NA,NA,60 e 150,8
+428,31,Mulher,NA,Branco,NA,Pós graduação (incompleta),2,Humanas,Psicologia Organizacional,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,A,NA,NA,10%,NA,NA,Igual,Menos suscetível,Aumentou,1,2,3,1 ano,NA,Carolina,NA,100 e 50,6
+429,27,Homem,NA,Branco,NA,Superior (completo),2,Exatas,Engenharia de materiais,São Paulo,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",1,NA,D,NA,20%,Igual,Menos suscetível,NA,NA,Permaneceu o mesmo,3,2,1,1 ano,Maria,NA,NA,60 e 150,9
+430,23,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Administração,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,E,20%,NA,NA,Igual,Menos suscetível,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,8
+431,37,Mulher,NA,Branco,NA,Pós graduação (completa),2,Saúde,Psicologia,Santos,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",2,NA,NA,E,20%,Igual,Menos suscetível,NA,NA,Aumentou,2,1,3,1 ano,Maria,NA,NA,60 e 150,7
+432,26,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,A,NA,NA,20%,NA,NA,Igual,Igual,Aumentou,1,3,2,1 ano,NA,Maria,NA,60 e 150,10
+433,21,Homem,NA,Branco,NA,Superior (completo),2,Exatas,Engenharia,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,F,20%,Igual,Igual,NA,NA,Aumentou,1,2,3,1 ano,NA,NA,Maria,60 e 150,10
+434,22,Homem,NA,Branco,NA,Pós graduação (incompleta),2,Exatas,Matemática,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,NA,E,20%,NA,NA,Igual,Igual,Aumentou,1,2,3,1 ano,Maria,NA,NA,60 e 150,10
+435,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 9 a 12 salários mínimos (R$ 9405,01 até R$ 12540)",2,B,NA,NA,20%,Igual,Igual,NA,NA,Aumentou,3,1,2,1 ano,NA,NA,Carolina,60 e 150,8
+436,21,Mulher,NA,Branco,NA,Superior (incompleto),2,Humanas,Psicologia,Londrina,"De 6 a 9 salários mínimos (R$ 6270,01 até R$ 9405)",4,A,NA,NA,20%,NA,NA,Menos suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,5
+437,21,Homem,NA,Pardo,NA,Superior (incompleto),2,Humanas,Psicologia,Sobral,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",4,NA,D,NA,Não sei,Igual,Igual,NA,NA,Aumentou,2,1,3,1 ano,Maria,NA,NA,60 e 150,4
+438,26,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,São Paulo,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,60 e 150,NA
+439,26,Outro,Não-binário,Branco,NA,Pós graduação (incompleta),2,Humanas,Psicologia,Goiânia,"Mais de 15 salários mínimos (mais de R$ 15675,01)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Maria,NA,NA,NA,NA
+440,61,Homem,NA,Branco,NA,Superior (completo),2,Humanas,Administração,São Paulo,"Mais de 15 salários mínimos (mais de R$ 15675,01)",4,NA,D,NA,20%,Igual,Igual,NA,NA,Diminuiu,3,1,2,6 meses,NA,NA,Maria,60 e 150,9
+441,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+442,23,Mulher,NA,Branco,NA,Superior (incompleto),2,Saúde,Psicologia,Arapongas,"De 1 a 3 salários mínimos (R$ 1045,01 até R$ 3135)",2,B,NA,NA,10%,NA,NA,Mais suscetível,Igual,Aumentou,3,2,1,1 ano,NA,NA,Maria,60 e 150,7
+443,39,Mulher,NA,Branco,NA,Superior (completo),2,Humanas,Psicologia,Brasilia,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,NA,NA,NA,Mais suscetível,Igual,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,70 e 120,NA
+444,31,Homem,NA,Branco,NA,Pós graduação (completa),2,Humanas,Psicologia,São Luís/MA,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Carolina,NA,NA,NA
+445,27,Mulher,NA,Preto,NA,Pós graduação (completa),2,Humanas,Psicologia,São Luís,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,D,NA,20%,NA,NA,Mais suscetível,Menos suscetível,Aumentou,3,2,1,1 ano,Carolina,NA,NA,60 e 150,8
+446,23,Mulher,NA,Branco,NA,Superior (completo),2,Saúde,Psicologia,Alpinópolis - MG,"De 3 a 6 salários mínimos (R$ 3135,01 até R$ 6270)",3,NA,NA,F,20%,Mais suscetível,Igual,NA,NA,Aumentou,3,2,1,1 ano,NA,Carolina,NA,60 e 150,9
