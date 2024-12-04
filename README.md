@@ -1,4 +1,4 @@
-# An Analysis of Gender and Economic Decision-Making: Income Disparities and Career Choices
+# Comprehensive Analysis of Educational and Demographic Factors: Insights into Inequality and Opportunity
 
 ## Overview
 
